@@ -9,5 +9,8 @@
 
   I'm Owen Morvan, I'm a beginner fullstack developer who really wants to learn new things ! 
 
-  
+
+# Kudos
+
+  Forked from https://github.com/sharu725/online-cv, thanks for his work.
 
