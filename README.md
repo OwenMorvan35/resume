@@ -2,6 +2,12 @@
   
   This site is my resume in web page. 
 
-  Open the [link](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) to see it.
+  Open the [link](https://owenmorvan35.github.io/resume/) to see it.
 
+
+# Summary 
+
+  I'm Owen Morvan, I'm a beginner fullstack developer who really wants to learn new things ! 
+
+  
 
