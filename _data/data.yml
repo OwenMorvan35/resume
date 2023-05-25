@@ -109,6 +109,9 @@ skills:
       - name: React.js
         level: 70%
 
+      - name: Playwright
+        level: 80%
+        
       - name: React Native
         level: 60%
 
