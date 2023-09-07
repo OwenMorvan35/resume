@@ -95,7 +95,7 @@ projects:
         tagline: "I made a little 2D vidéo game using Unity and the C# language, I use sprite for the design of the map and the characters."
 
       - title: Crypto Website 
-        tagline: "I made a website using React and RapidApi, this website show everything you want to know about crypto. You can take a look by clicking the link below"
+        tagline: "I made a website using React and RapidApi, this website show everything you want to know about crypto. You can take a look by clicking the title"
         link: "https://crypto-owen.vercel.app/"
 
       - title: Music
