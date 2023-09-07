@@ -51,8 +51,8 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Fullstack Developer
-        time: 2022 - Present
+      - role: Fullstack Developer (freelance)
+        time: 2022 - 2023 (8 Month)
         company: Acklio, Cesson-Sévigné
         details: |
          - Frontend test automation with Playwright
@@ -74,7 +74,7 @@ experiences:
                - Creation of reusable components
                - Creation of new pages
                - Testing/Integration
-      - role: Fullstack Developer
+      - role: Fullstack Developer (freelance)
         time: 2022 - 2022 (10 months)
         company: Bio c' Bon, Bordeaux
         details: |
@@ -82,7 +82,13 @@ experiences:
             - Bugs corrections 
             - Implement new features
             - Client interaction
-      
+      - role: Frontend Developer (freelance)
+        time: 2023 - 2023 (1 month)
+        company: Mobystock, Paris
+        details: | 
+          - Creation of Mobystock frontend 
+          
+  
 projects:
     title: Projects
     intro: >
